@@ -1,0 +1,2 @@
+# ngTimer
+Angular timer
